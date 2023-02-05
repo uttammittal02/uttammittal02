@@ -8,7 +8,7 @@ I've been coding since a year and am a undergrad student at PEC, Chandigarh.
 
 * 🌍  I'm based in Chandigarh currently.
 * ✉️  You can contact me at [hemanthmittal02@gmail.com](mailto:hemanthmittal02@gmail.com)
-* 🧠  I'm learning Recommender Engines
+* 🧠  I'm learning Recommender Engines and Computer Vision.
 * 🤝  I'm open to collaborating on Projects requiring a ML engineer
 
 <a href="https://www.github.com/uttammittal02" target="_blank" rel="noreferrer"><img
